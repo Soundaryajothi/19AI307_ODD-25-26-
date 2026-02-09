@@ -1,3 +1,8 @@
+# MODULE 1
+# NAME:SOUNDARYA J
+# REG NO:212223220108
+# DATE: 23.01.2026
+
 # Ex.No:1(A) INTRODUCTION TO JAVA PROGRAMMING, DATA TYPES, VARIABLES AND OPERATORS
 
 ## QUESTION:
@@ -60,6 +65,7 @@ public class Main
 
 ## RESULT:
 Thus, the Java program demonstrating variables, data types, operators, and print statements was successfully executed.
+
 
 
 
