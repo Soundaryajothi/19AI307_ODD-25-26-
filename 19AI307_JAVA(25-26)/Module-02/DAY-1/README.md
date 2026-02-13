@@ -1,3 +1,7 @@
+# MODULE 2
+# NAME: SOUNDARYA J
+# REG NO:212223220108
+
 # Ex.No:2(A) CLASS AND OBJECT
 
 ## QUESTION:
@@ -79,5 +83,6 @@ class prog {
 ## RESULT:
 
 Thus, the Java program to implement a Class and Object using a Person class was successfully executed and verified.
+
 
 
