@@ -58,3 +58,4 @@ public class OuterClass
 Thus, the Java program to implement an Inner Class and access it from the Outer Class was successfully executed.
 
 
+
